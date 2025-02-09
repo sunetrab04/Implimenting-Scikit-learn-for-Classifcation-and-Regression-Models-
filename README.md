@@ -4,7 +4,7 @@ This Notebook demonstrates some of the most important functions of the beautiful
 What we are goiong to cover: 
 
 
-An end to end Scikit-learn workflow
+An end to end Scikit-learn workflow /n
 Getting the data ready
 Choose the right estimator/algorithm for our problems
 Fit the model/algorithm and use it to make predicitons on our data
